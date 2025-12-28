@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$dbname = "proiectbd";
+$dbname = "baza_de_date";
 
 $conn = new mysqli($host, $user, $password, $dbname);
 
